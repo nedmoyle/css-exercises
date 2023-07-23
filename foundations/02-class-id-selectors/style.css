@@ -1,0 +1,21 @@
+/* style.css */
+
+.paragraph {
+    background-color: lightcoral;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#numerodos {
+    color: blue;
+    font-size: 36px;
+}
+
+.tres {
+    font-size: 24px;
+}
+#quattro {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+
+}
