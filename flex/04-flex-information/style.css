@@ -24,3 +24,30 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+body {
+  text-align: center;
+}
+
+.informationpage {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+}
+
+.plantlist {
+  display:flex;
+  justify-content: center;
+  gap: 52px;
+  
+}
+
+.text {
+  text-align: center;
+}
+
+.plant {
+  width: 200px;
+}
+
